@@ -24,7 +24,7 @@ Passionate about crafting dynamic web applications that elevate user experiences
 
 ### 👨‍💻 Portfolio & Projects
 
-- 💬 [Real-Time Chat App](https://github.com/gityashhub/your-chat-app) – React, Express, TypeScript, Socket.IO
+- 💬 [Real-Time Chat App](https://github.com/gityashhub/Real-Time-Chat-App) – React, Express, TypeScript, Socket.IO
 - 🏡 [WanderLust – Airbnb Clone](https://github.com/gityashhub/WandeLust-Airbnb-) – Node.js, MongoDB, Express, EJS
 
 ---
